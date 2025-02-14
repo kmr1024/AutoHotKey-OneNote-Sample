@@ -56,3 +56,5 @@ This script is just a **starting point**. You can modify it to add:
 > *Let your creativity run wild and make OneNote even more powerful!* 🚀  
 
 ---
+
+#*There might be some bugs when using OneNote in "full page view" and the standard view works just fine*
