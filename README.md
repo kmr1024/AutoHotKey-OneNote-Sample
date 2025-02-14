@@ -57,4 +57,4 @@ This script is just a **starting point**. You can modify it to add:
 
 ---
 
-# *There might be some bugs when using OneNote in "full page view" and the standard view works just fine*
+*There might be some bugs when using OneNote in "full page view" and the standard view works just fine*.
