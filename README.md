@@ -13,11 +13,11 @@ This is a sample AutoHotkey (`.ahk`) script that allows you to quickly access va
 | Shortcut | Function |
 |----------|----------|
 | `F2` | Lasso Select (Alt + D → L) |
-| `F3` | Select Brush 1 |
-| `F4` | Select Brush 2 |
-| `F5` | Select Brush 3 |
-| `F6` | Select Brush 4 |
-| `F7` | Select Brush 5 |
+| `F3` | Select Pen 1 |
+| `F4` | Select Pen 2 |
+| `F5` | Select Pen 3 |
+| `F6` | Select Pen 4 |
+| `F7` | Select Pen 5 |
 
 ### ✋ **Navigation Tools**  
 
